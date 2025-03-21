@@ -1,0 +1,132 @@
+﻿<Window x:Class="Content_Management_System.UserWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Content_Management_System"
+        xmlns:notifications="clr-namespace:Notification.Wpf.Controls;assembly=Notification.Wpf"
+        mc:Ignorable="d"
+        Title="UserWindow" 
+        Height="650" 
+        Width="800"
+        AllowsTransparency="True"
+        Background="Transparent"
+        MouseLeftButtonDown="Window_MouseLeftButtonDown"
+        SizeToContent="WidthAndHeight"
+        WindowStyle="None"     
+        Closing="Window_Closing">
+    <Window.Resources>
+        <Style
+            x:Key="DefaultButtonStyle"
+            TargetType="Button">
+            <Setter
+                Property="FontFamily"
+                Value="Times New Roman"/>
+            <Setter
+                Property="FontSize"
+                Value="16"/>
+        </Style>
+    </Window.Resources>
+    <Canvas
+        Width="750"
+        Height="650">
+        <Canvas.Resources>
+            <DropShadowEffect
+                x:Key="MouseOverDropShadowEffect"
+                Direction="320"
+                Opacity="80"
+                ShadowDepth="10"
+                Color="Goldenrod"/>
+        </Canvas.Resources>
+        <Path
+            Name="UIPath"
+            Stroke="Goldenrod" HorizontalAlignment="Left" Height="650" Stretch="Fill" VerticalAlignment="Center" Width="750">
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0.1"/>
+                    <GradientStop Color="Black"  Offset="0.95"/>
+                    <GradientStop Color="#daa520" Offset="0.25"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+            <Path.Data>
+                <PathGeometry>
+                    <PathFigure StartPoint="50,0">
+                        <LineSegment Point="0,50"/>
+                        <LineSegment Point="0,300"/>
+                        <LineSegment Point="50,350"/>
+                        <LineSegment Point="550,350"/>
+                        <LineSegment Point="590,300"/>
+                        <LineSegment Point="590,50"/>
+                        <LineSegment Point="550,0"/>
+                        <LineSegment Point="50,0"/>
+                    </PathFigure>
+                </PathGeometry>
+            </Path.Data>
+        </Path>
+        <notifications:NotificationArea
+            x:Name="WindowNotificationArea"
+            Panel.ZIndex="1000"
+            MaxItems="3"
+            Position="TopRight"/>
+        <DockPanel
+            Canvas.Left="63"
+            Canvas.Top="10"
+            Width="650"
+            Height="625" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <StackPanel
+                Margin="5"
+                DockPanel.Dock="Bottom"
+                Orientation="Horizontal">
+                <DockPanel>
+                    <Grid
+                       Height="50"
+                       Background="Black"
+                       DockPanel.Dock="Top" Width="625">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="3*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Button
+                            x:Name="BackButton"
+                            Grid.Row="0"
+                            Grid.Column="0"
+                            Margin="5"
+                            FontFamily="Times New Roman"
+                            Background="Black"
+                            BorderBrush="Black"
+                            Foreground="Goldenrod"
+                            Click="BackButton_Click"
+                            Content="Back"
+                            Cursor="Pen"
+                            IsEnabled="{Binding ElementName=MainFrame, Path=CanGoBack}"
+                            ToolTip="Navigate Back"/>
+                        <Label Content="REPLAY" Grid.Column="1" FontFamily="Times New Roman" FontSize="35" Foreground="Goldenrod" Margin="116,0,0,0" VerticalAlignment="Center"/>
+                        <Button
+                            x:Name="ExitButton"
+                            Grid.Row="0"
+                            Grid.Column="2"
+                            Margin="5"
+                            Width="Auto"
+                            Height="Auto"
+                            FontFamily="Times New Roman"
+                            Background="Black"
+                            Foreground="Goldenrod"
+                            BorderBrush="Black"
+                            HorizontalAlignment="Stretch"
+                            VerticalAlignment="Stretch"
+                            Click="ExitButton_Click"
+                            Cursor="Pen"
+                            Content="Exit"
+                            ToolTip="Close the application"/>
+                    </Grid>
+                    <Frame
+                        x:Name="MainFrame"
+                        DockPanel.Dock="Bottom"
+                        NavigationUIVisibility="Hidden"
+                        Source="Pages/AdminDataTablePage.xaml"/>
+                </DockPanel>
+            </StackPanel>
+        </DockPanel>
+    </Canvas>
+</Window>

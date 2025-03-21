@@ -1,0 +1,112 @@
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Content Management System.exe.config
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Content Management System.exe
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Content Management System.pdb
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Content Management System.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Content Management System_MarkupCompile.cache
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Content Management System_MarkupCompile.lref
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Content Management System.g.resources
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Content_Management_System.Properties.Resources.resources
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Content Management System.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Content Management System.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Content Management System.exe
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Content Management System.pdb
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Pages\AddArticlePage.g.cs
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Pages\AdminDataTablePage.g.cs
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\UserWindow.g.cs
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Pages\AddArticlePage.baml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Pages\AdminDataTablePage.baml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\UserWindow.baml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\FontAwesome5.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\FontAwesome5.Net.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Notification.Wpf.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\FontAwesome5.xml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\FontAwesome5.Net.xml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Notification.Wpf.pdb
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Notification.Wpf.xml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\System.ValueTuple.xml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Content .AC90BE28.Up2Date
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Pages\ChangeArticlePage.g.cs
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Pages\ChangeArticlePage.baml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Pages\PreviewArticlePage.g.cs
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Pages\PreviewArticlePage.baml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Content Management System.exe.config
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Content Management System.exe
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Content Management System.pdb
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\FontAwesome5.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\FontAwesome5.Net.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Notification.Wpf.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\FontAwesome5.xml
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\FontAwesome5.Net.xml
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Notification.Wpf.pdb
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\Notification.Wpf.xml
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\System.ValueTuple.xml
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Content Management System.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Pages\AddArticlePage.g.cs
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Pages\AdminDataTablePage.g.cs
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Pages\ChangeArticlePage.g.cs
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Pages\PreviewArticlePage.g.cs
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\UserWindow.g.cs
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Content Management System_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Content Management System_MarkupCompile.lref
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Pages\AddArticlePage.baml
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Pages\AdminDataTablePage.baml
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Pages\ChangeArticlePage.baml
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Pages\PreviewArticlePage.baml
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\UserWindow.baml
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Content Management System.g.resources
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Content_Management_System.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Content Management System.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Content Management System.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Content .AC90BE28.Up2Date
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Content Management System.exe
+C:\Users\Administrator\Desktop\Borka Veskovic PR47-2021\projekat1 HCI\Content Management System\Content Management System\obj\Debug\Content Management System.pdb

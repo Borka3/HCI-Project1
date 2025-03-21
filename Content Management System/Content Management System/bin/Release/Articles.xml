@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<ArrayOfArticles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Articles>
+    <NumOfArticles>10</NumOfArticles>
+    <Id>23</Id>
+    <IsCheck>false</IsCheck>
+    <ImageOfArticle>file:///C:/Users/Administrator/Desktop/projekat1 HCI/rs8p0001t-006.jpg</ImageOfArticle>
+    <PathToTheFile>23.rtf</PathToTheFile>
+    <DateOfAddition>2024-03-29T02:13:54.5191551+01:00</DateOfAddition>
+    <TypeOfArticle>Replay ženske patike</TypeOfArticle>
+  </Articles>
+  <Articles>
+    <NumOfArticles>24</NumOfArticles>
+    <Id>123</Id>
+    <IsCheck>false</IsCheck>
+    <ImageOfArticle>file:///C:/Users/Administrator/Desktop/projekat1 HCI/zenska-torba-replay-3361A0362B-359.jpg</ImageOfArticle>
+    <PathToTheFile>123.rtf</PathToTheFile>
+    <DateOfAddition>2024-03-29T02:19:13.7500285+01:00</DateOfAddition>
+    <TypeOfArticle>Replay ženska torba</TypeOfArticle>
+  </Articles>
+  <Articles>
+    <NumOfArticles>25</NumOfArticles>
+    <Id>25</Id>
+    <IsCheck>false</IsCheck>
+    <ImageOfArticle>file:///C:/Users/Administrator/Desktop/projekat1 HCI/muske-patike-replay-field-jupiter-2-RS1P0027L-3172.jpg</ImageOfArticle>
+    <PathToTheFile>25.rtf</PathToTheFile>
+    <DateOfAddition>2024-03-29T02:26:23.3570004+01:00</DateOfAddition>
+    <TypeOfArticle>Replay muške patike</TypeOfArticle>
+  </Articles>
+  <Articles>
+    <NumOfArticles>27</NumOfArticles>
+    <Id>27</Id>
+    <IsCheck>false</IsCheck>
+    <ImageOfArticle>file:///C:/Users/Administrator/Desktop/projekat1 HCI/oyoqademtluq.jpg</ImageOfArticle>
+    <PathToTheFile>27.rtf</PathToTheFile>
+    <DateOfAddition>2024-03-29T02:33:12.581296+01:00</DateOfAddition>
+    <TypeOfArticle>Replay muški parfem Jeans Spirit</TypeOfArticle>
+  </Articles>
+  <Articles>
+    <NumOfArticles>28</NumOfArticles>
+    <Id>28</Id>
+    <IsCheck>false</IsCheck>
+    <ImageOfArticle>file:///C:/Users/Administrator/Desktop/projekat1 HCI/muski-kais-replay-2670A3076-098.jpg</ImageOfArticle>
+    <PathToTheFile>28.rtf</PathToTheFile>
+    <DateOfAddition>2024-03-29T15:23:46.3591461+01:00</DateOfAddition>
+    <TypeOfArticle>Replay muški kaiš</TypeOfArticle>
+  </Articles>
+</ArrayOfArticles>

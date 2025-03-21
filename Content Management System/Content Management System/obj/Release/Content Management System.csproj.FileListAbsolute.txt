@@ -1,0 +1,56 @@
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\Content Management System.exe.config
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\Content Management System.exe
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\Content Management System.pdb
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\FontAwesome5.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\FontAwesome5.Net.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\Microsoft.Xaml.Behaviors.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\Notification.Wpf.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\FontAwesome5.xml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\FontAwesome5.Net.xml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\Microsoft.Xaml.Behaviors.xml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\Notification.Wpf.pdb
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\Notification.Wpf.xml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\System.ValueTuple.xml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\Content Management System.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\MainWindow.g.cs
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\Pages\AddArticlePage.g.cs
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\Pages\AdminDataTablePage.g.cs
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\Pages\ChangeArticlePage.g.cs
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\Pages\PreviewArticlePage.g.cs
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\UserWindow.g.cs
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\App.g.cs
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\Content Management System_MarkupCompile.cache
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\Content Management System_MarkupCompile.lref
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\MainWindow.baml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\Pages\AddArticlePage.baml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\Pages\AdminDataTablePage.baml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\Pages\ChangeArticlePage.baml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\Pages\PreviewArticlePage.baml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\UserWindow.baml
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\Content Management System.g.resources
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\Content_Management_System.Properties.Resources.resources
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\Content Management System.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\Content Management System.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\Content .AC90BE28.Up2Date
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\Content Management System.exe
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\obj\Release\Content Management System.pdb
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\projekat1 HCI\Content Management System\Content Management System\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
